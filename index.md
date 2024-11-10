@@ -3,7 +3,7 @@ layout: default
 title: Welcome to KnowOcean
 ---
 
-![KnowOcean Logo](assets/images/logo.png)
+![KnowOcean Logo](assets/images/logo.jpg)
 
 # Exploring the Wonders of the Ocean
 Welcome to KnowOcean, your resource for ocean knowledge, research, and exploration. 
