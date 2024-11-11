@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-cayman
 title: KnowOcean
 description: "Your resource for ocean knowledge and exploration."
 navbar:
