@@ -2,7 +2,6 @@
 layout: page
 title: "About Me"
 permalink: /about/
-path to /about
 ---
 
 # About Me
