@@ -17,9 +17,10 @@ jobs:
         with:
           repository: know-ocean/blog
           path: blog
+          submodules: true
           token: ${{ secrets.BLOG_REPO_TOKEN }}
 
-      - name: Copy content
+      - name: Sync Submodule
         run: git submodule update --remote --merge
 
       - name: Commit changes
