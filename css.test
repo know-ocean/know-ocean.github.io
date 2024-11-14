@@ -1,0 +1,20 @@
+:root {
+  --deep-ocean-blue: #003366;
+  --seafoam-blue: #66B2FF;
+  --coral-reef: #FF6F61;
+  --soft-sand: #F0EAD6;
+}
+
+/* Example usage */
+
+body {
+  background-color: var(--soft-sand);
+  color: var(--deep-ocean-blue);
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: var(--deep-ocean-blue);
+  color: var(--soft-sand);
+  padding: 20px
+
