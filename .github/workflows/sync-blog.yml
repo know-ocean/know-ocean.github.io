@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.BLOG_REPO_TOKEN }}
 
       - name: Copy content
-        run: git submodule add https://github.com/know-ocean/blog.git blog
+        run: git submodule update --remote --merge
 
       - name: Commit changes
         run: |
