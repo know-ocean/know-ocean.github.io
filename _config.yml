@@ -1,8 +1,12 @@
-theme: minima
 title: KnowOcean
-description: "Your resource for ocean knowledge and exploration."
-navbar:
-  - title: "Home"
-    url: "/"
-  - title: "About Me"
-    url: "/about"
+description: >- # this means to ignore newlines until "endquote"
+  A simple Jekyll site using a remote theme.
+url: "https://know-ocean.github.io" # your website URL, change as needed
+
+remote_theme: daviddarnes/alembic@main
+
+# Optional settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme

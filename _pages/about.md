@@ -1,32 +1,24 @@
 ---
 layout: page
-title: "About Me"
+title: "About"
 permalink: /about/
 ---
 
-# About Me
+Not counting school, I began my career in marine biology in 1997 on Cape Cod assisting the Northeast Marine Mammal Stranding Network coordinator. Since then, I have experienced a smorgasboard of marine biology work including: zooplankton processing, cetacean crosbow biopsies, pinniped scat collection, marine mammal necropsies, crab tagging, trawl sampling, fish ageing, microscopy, spectroscopy, biological modeling, simulation and fishery management. 
 
-Welcome to my website! I'm [Your Name], a passionate [Your Profession or Interest] with a love for [mention any hobbies, interests, or skills here, like "coding, cooking, and ocean conservation"].
+### Experience
 
-I created this website to share my insights, projects, and experiences with the world. Here you'll find a variety of content including [briefly mention the type of content you provide on the site, like "technical guides, personal stories, and educational resources"].
+- **1997** Marine Mammal Stranding Database Developer/Manager *Woods Hole, MA*
+- **1999** Fishing Vessel Trip Report Auditor *Woods Hole, MA*
+- **2001** Fish Dealer Report Information Specialist *Gloucester, MA*
+- **2003** Alaska Groundfish Survey Research Fishery Biologist *Seattle, WA*
+- **2023** Age and Growth Research Fishery Biologist
 
-### My Journey
-
-I started my journey in [mention when or how you started in your field]. Over the years, I’ve developed a wide array of skills and experiences that I’m excited to share here.
-
-### Skills and Interests
-
-- **Skills:** [List your skills, e.g., JavaScript, HTML, Jekyll, etc.]
-- **Interests:** [List your interests, e.g., web development, environmental conservation, etc.]
-
-### Connect with Me
-
-Feel free to reach out or follow me on my social media channels:
+### Connect
 
 - **LinkedIn:** [Your LinkedIn URL]
 - **GitHub:** [Your GitHub URL]
-- **Twitter:** [Your Twitter URL]
+- **Twitter:** @KnowOceanOrg
 
-Thank you for visiting my site!
 
 ---
