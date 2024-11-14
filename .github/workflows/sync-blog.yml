@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.BLOG_REPO_TOKEN }}
 
       - name: Copy content
-        run: cp -r blog/* .
+        run: git submodule add <url> blog
 
       - name: Commit changes
         run: |
