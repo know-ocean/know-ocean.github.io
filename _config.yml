@@ -2,6 +2,7 @@ title: KnowOcean
 description: >- # this means to ignore newlines until "endquote"
   A simple Jekyll site using a remote theme.
 url: "https://know-ocean.github.io" # your website URL, change as needed
+image: "/assets/images/banner1.jpg"
 
 remote_theme: daviddarnes/alembic@main
 

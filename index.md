@@ -3,7 +3,7 @@ title: KnowOcean.org
 feature_text: |
   ## Alembic
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: /assets/banner1.jpg
+feature_image: "/assets/images/banner1.jpg"
 excerpt: "A hub dedicated to helping you understand and become a marine biologist."
 ---
 
