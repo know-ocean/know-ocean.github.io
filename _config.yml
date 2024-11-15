@@ -100,7 +100,7 @@ navigation_header:
 - title: About
   url: /about/
 - title: Blog
-  url: /blog/
+  url: /posts/
 # - title: Categories
 #   url: /categories/
 - title: Search
