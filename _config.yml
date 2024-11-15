@@ -1,6 +1,4 @@
-title: KnowOcean
-description: >- # this means to ignore newlines until "endquote"
-  A simple Jekyll site using a remote theme.
+
 url: "https://know-ocean.github.io" # your website URL, change as needed
 image: "/assets/images/banner1.jpg"
 
@@ -66,14 +64,13 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+lang: en-US # Set the site language
+title: "KnowOcean" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+description: "Resources for the aspiring marine biologist" # Site description and default description, also used in jekyll-seo-tag
+url: "https://know-ocean.github.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+email: "knowocean@outlook.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -84,14 +81,14 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/logo@16px.png'
-  32: '/assets/logos/logo@32px.png'
-  96: '/assets/logos/logo@96px.png'
-  120: '/assets/logos/logo@120px.png'
-  144: '/assets/logos/logo@144px.png'
-  180: '/assets/logos/logo@180px.png'
-  512: '/assets/logos/logo@512px.png'
-  1024: '/assets/logos/logo@1024px.png'
+  16: '/assets/logos/logo_16.png'
+  32: '/assets/logos/logo_32.png'
+  96: '/assets/logos/logo_96.png'
+  120: '/assets/logos/logo_120.png'
+  144: '/assets/logos/logo_144.png'
+  180: '/assets/logos/logo_180.png'
+  512: '/assets/logos/logo_512.png'
+  1024: '/assets/logos/logo_1024.png'
 
 # 9. Site navigation
 navigation_header:
