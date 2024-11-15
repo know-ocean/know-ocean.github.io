@@ -3,7 +3,8 @@ layout: page
 title: "About"
 permalink: /about/
 ---
-![Jason SCUBA giving](/assets/images/sponge_jc.webp){: style="float: left; width: 120px;" } ## Jason Conner
+![Jason SCUBA giving](/assets/images/sponge_jc.webp){: style="float: left; width: 120px;" } 
+## Jason Conner
 ## Marine Biologist 
 
 {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/knowocean" color="#44a4af" %}
