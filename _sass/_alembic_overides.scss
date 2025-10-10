@@ -1,0 +1,10 @@
+@import "variables";
+
+$primary: $medium-teal;
+$text-color: $dark-teal;
+
+.button {
+  background: $medium-teal;
+  color: $text-light;
+  &:hover { background: darken($medium-teal, 10%); }
+}

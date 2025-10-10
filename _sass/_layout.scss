@@ -1,0 +1,40 @@
+// _layout.scss
+@import 'variables';
+
+.page-wrapper {
+  background: $light-teal;
+  padding: 0 10% 0 8%;
+  margin: 0;
+  position: relative;
+  min-height: 100vh;
+}
+
+header {
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid $medium-teal;
+}
+
+header h1, header h2 {
+  margin: 0;
+}
+
+.summary {
+  background: $sand;
+  border-left: 4px solid $medium-teal;
+  padding: 1rem;
+  font-style: italic;
+}
+
+.preamble, .supporting {
+  padding: 1rem;
+}
+
+footer {
+  text-align: center;
+  background: $dark-teal;
+  color: $text-light;
+  padding: 1rem;
+}
