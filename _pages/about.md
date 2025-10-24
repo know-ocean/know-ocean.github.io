@@ -2,8 +2,10 @@
 layout: page
 title: "About"
 permalink: /about/
+feature_text: |
+  ### *I must down to the seas again*
+feature_image: "/assets/images/sponge_jc.webp"
 ---
-![Jason SCUBA giving](/assets/images/sponge_jc.webp){: style="float: left; width: 120px;" } 
 ## Jason Conner
 ## Marine Biologist 
 

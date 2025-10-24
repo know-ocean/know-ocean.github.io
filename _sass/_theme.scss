@@ -1,17 +1,26 @@
 // Structural elements
 body {
-  background: $backgroundColour;
-  color: $bodyColour;
+//  background: $backgroundColour;
+//  color: $bodyColour;
   height: 100%;
   display: flex;
   @include flex-direction(column);
   overflow-x: hidden;
+  background-image: url("/assets/images/OceanDepths_bg.png"); /* path to your image */
+  background-size: cover;       /* makes it fill the entire screen */
+  background-position: center;
+  background-attachment: fixed; /* optional: creates subtle parallax */
+  background-repeat: no-repeat;
+  margin: 0;
 }
 
 .container {
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
+  padding: 2rem;
+  border-radius: 12px;            /* optional rounded corners */
+  box-shadow: 0 0 20px rgba(0,0,0,0.2); /* subtle depth */
 }
 
 
